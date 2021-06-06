@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Movie Tray</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_search">Search</string>
+
+    <string name="menu_movies">Movies</string>
+    <string name="na_header_subtitle">Saveo task - Ronak</string>
+    <string name="now_showing_label">Now Showing</string>
+    <string name="_2020">2020</string>
+    <string name="movie_name">MOVIE NAME</string>
+    <string name="synopsis">Synopsis</string>
+    <string name="synopsis_content">synopsis content</string>
+    <string name="trailers">Trailers</string>
+    <string name="favorite">Favorite</string>
+    <string name="reviews">Reviews</string>
+    <string name="movie_image">movie image</string>
+    <string name="messageShare">Hey, take a look at this.\n\n</string>
+    <string name="movie_details">%s | %s | %s</string>
+    <string name="ratings_detail">Score: %s | Votes: %s</string>
+    <string name="u_label">U/A</string>
+    <string name="movie_time">3h 7min</string>
+    <string name="adult">A</string>
+
+</resources>
